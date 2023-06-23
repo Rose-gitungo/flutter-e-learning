@@ -1,0 +1,27 @@
+{
+    "sessions": [
+      {
+        "type": "Math",
+        "duration": 30,
+        "level": "Easy",
+        "description": "Solve simple addition and subtraction problems.",
+        "image": "https://example.com/math.png"
+      },
+      {
+        "type": "Reading",
+        "duration": 20,
+        "level": "Medium",
+        "description": "Read a short story and answer comprehension questions.",
+        "image": "https://example.com/reading.png"
+      },
+      {
+        "type": "Writing",
+        "duration": 40,
+        "level": "Hard",
+        "description": "Write a short essay on a given topic.",
+        "image": "https://example.com/writing.png"
+      }
+    ]
+  }
+
+  

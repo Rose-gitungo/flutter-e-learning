@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "572351569991",
+    "firebase_url": "https://flutterdev-76e33-default-rtdb.firebaseio.com",
+    "project_id": "flutterdev-76e33",
+    "storage_bucket": "flutterdev-76e33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572351569991:android:8381e864580f8bcce25162",
+        "android_client_info": {
+          "package_name": "com.example.little_happyfish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572351569991-e4fr79vmk11i3mif8er7rgd8jpg6amk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWh3WTGDU_hxnTWduZnuSwgwM7-eN5O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572351569991-e4fr79vmk11i3mif8er7rgd8jpg6amk4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "572351569991-lmcp6k4h71s1q2ks4sd1f457hc3qqfbg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.littleHappyfish"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
